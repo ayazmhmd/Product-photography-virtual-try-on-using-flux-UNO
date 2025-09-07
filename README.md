@@ -9,4 +9,4 @@ This repository shows examples of using Flux UNO for practical image tasks.
 - Virtual try-on from reference image or description
 
   ### Test Results
-| ![Input](im1.png) | ![Output](14.png) |
+![Input](im1.png) ![Output](14.png)
